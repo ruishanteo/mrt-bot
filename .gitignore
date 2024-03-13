@@ -1,0 +1,6 @@
+__pycache__
+venv
+captchas
+archive.txt
+.env
+.DS_Store
